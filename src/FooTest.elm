@@ -1,4 +1,4 @@
-module Example exposing (..)
+module FooTest exposing (..)
 
 import Expect exposing (..)
 import Foo exposing (..)
